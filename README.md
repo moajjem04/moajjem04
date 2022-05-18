@@ -2,8 +2,8 @@
 - 👀 I’m interested in applications of machine learning especially in biomedical sector
 - 🌱 I’m currently learning about GANs and how to deploy ml models
 - 📫 How to reach me:
-  * [LinkedIn](https://www.linkedin.com/in/moajjem-hossain/)
-  * moajjem04@gmail.com
+  * LinkedIn: [Moajjem Hossain Chowdhury](https://www.linkedin.com/in/moajjem-hossain/)
+  * Email: moajjem04@gmail.com
 
 <!---
 moajjem04/moajjem04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
